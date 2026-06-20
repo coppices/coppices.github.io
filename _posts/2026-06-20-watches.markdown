@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Two recent watches"
+date: 2026-06-20 03:00:00
+categories: blog movies
+---
+Two movies we've watched recently here at Coppices.
+
+- The Heiress (1949)
+- The Awful Truth (1937)

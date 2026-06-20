@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Three recent reads"
+date: 2026-06-20 02:00:00
+categories: blog books
+---
+Three books we've read recently here at Coppices.
+
+- Civilizations of Ancient Iraq by Foster & Foster
+- Molloy by Beckett
+- Death Comes for the Archbishop by Cather
+
+...and two bonus books!
+
+- Beowulf by Anonymous
+- Howards End by Forster

@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Test post"
+date: 2026-06-20
+categories: blog
+---
+
+This is a test post to ensure the site is working correctly. It can be removed at a later date.

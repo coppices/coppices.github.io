@@ -1,0 +1,43 @@
+---
+layout: post
+title: "What's a morse?"
+date: 2026-06-21 01:00:00
+categories: blog books
+---
+On [chapter XXIV](http://penelope.uchicago.edu/pseudodoxia/pseudo324.html) of Thomas Browne's [Pseudodoxia Epidemica](http://penelope.uchicago.edu/pseudodoxia/pseudodoxia.html).
+
+In the mid-17th century, the charming English writer and physician
+Thomas Browne assembled an encyclopedia of common misconceptions,
+titled Pseudodoxia Epidemica. In chapter XXIV, he considers the
+supposedly popular assertion that "all Animals of the Land, are in
+their kind in the Sea." In other words, that every land animal has an
+aquatic counterpart.
+
+Browne admits that at least some animals exist in both terrestrial and
+marine forms, citing (sea-)serpents as one example. Nevertheless he
+contends that a great many animals are to be found either on the land
+or in the sea, but not both. Camels, sheep, and "Molls" (moles) have
+no counterpart in the ocean. Some animals, though they have no true
+marine equals, have misleadingly named counterparts which "receive not
+these appellations from a total similitude in figure, but any
+concurrence in common accidents, in colour, condition or single
+conformation."
+
+Horses, for example, do not really resemble "that which is commonly
+called a Sea-horse". The modern reader might immediately agree, thinking of the small, odd animals we call sea-horses today. However, it quickly becomes evident that Browne is talking about something quite different, as he claims that sea-horses, "in their common descriptions", do not exist. They are "but Grotesco deliniations which fill up empty spaces in Maps, and meer pictorial inventions, not any Physical shapes". The word "Sea-horse" is used here to refer to a particular kind of fantastical sea-monster. 
+
+However, sea-horses do seem to have some basis in reality. Browne insists that "Sea-horse" is a
+misnomer for what "is properly called a Morse". What is a
+morse? As it turns out, this is an archaic word for a walrus. The word
+walrus itself [may have
+come](https://en.wikipedia.org/wiki/Walrus#Etymology) from the old
+Norse *hrosshvalr*, i.e., horse-whale. 
+
+As for the bony fish of the genus *Hippocampus*, which we associate with the name seahorse today, Browne
+considers these a kind of insect. It is uncertain why. He also dismisses the hippopotamus
+as more closely resembling a pig than a horse (a fair assessment). 
+
+So much for seahorses. He makes some puzzling references to a marine
+animal "which they termed a Lion" (a lionfish?), which "was but a kind
+of Lobster", as well as "that which they called the Bear" though it
+"was but one kind of Crab". We're really not sure what he meant by that.

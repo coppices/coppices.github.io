@@ -1,0 +1,9 @@
+---
+layout: post
+title: "We recommend... the PDR"
+date: 2026-06-23 01:00:00
+categories: blog
+---
+If you haven't seen it yet, check out the [Public Domain Review](https://publicdomainreview.org/)!
+
+As they explain [here](https://publicdomainreview.org/about/), the PDR is a journal which aims "to promote and celebrate the public domain in all its abundance and diversity". They publish long-form essays every two weeks, covering all kinds of interesting and obscure topics. We only wish we'd known about them sooner!

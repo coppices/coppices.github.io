@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What's a morse?"
+title: "What's a Morse?"
 date: 2026-06-21 01:00:00
 categories: blog books
 ---
@@ -28,7 +28,7 @@ called a Sea-horse". The modern reader might immediately agree, thinking of the 
 
 However, sea-horses do seem to have some basis in reality. Browne insists that "Sea-horse" is a
 misnomer for what "is properly called a Morse". What is a
-morse? As it turns out, this is an archaic word for a walrus. The word
+Morse? As it turns out, this is an archaic word for a walrus. The word
 walrus itself [may have
 come](https://en.wikipedia.org/wiki/Walrus#Etymology) from the old
 Norse *hrosshvalr*, i.e., horse-whale. 
